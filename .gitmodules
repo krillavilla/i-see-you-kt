@@ -1,0 +1,6 @@
+[submodule "Facial_Keypoints"]
+	path = Facial_Keypoints
+	url = https://github.com/krillavilla/Facial_Keypoints.git
+[submodule "Image_Captioning"]
+	path = Image_Captioning
+	url = https://github.com/krillavilla/Image_Captioning.git
