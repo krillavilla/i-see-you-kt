@@ -4,3 +4,6 @@
 [submodule "Image_Captioning"]
 	path = Image_Captioning
 	url = https://github.com/krillavilla/Image_Captioning.git
+[submodule "Implement_SLAM"]
+	path = Implement_SLAM
+	url = https://github.com/krillavilla/Implement_SLAM.git
